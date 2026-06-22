@@ -6,6 +6,12 @@ This is the first working MVP of a broader anti-disinformation platform. It is n
 
 ---
 
+## Demo
+
+[Watch the demo video](https://drive.google.com/file/d/1DR1TNuq-N_AdY3TOgDHcxZLzVSzixre1/view?usp=sharing)
+
+---
+
 ## What it does
 
 PressArchive runs as a set of AI agents connected to Slack. You can ask it things like:
