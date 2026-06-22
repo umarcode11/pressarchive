@@ -1,0 +1,32 @@
+﻿# Secrets
+.env
+*.env
+
+# Vector database (large, local only)
+chroma_db/
+
+# Article JSON source files (large data, not code)
+articles_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.conda/
+*.egg-info/
+
+# Conda / virtualenv
+env/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/
