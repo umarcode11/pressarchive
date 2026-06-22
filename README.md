@@ -8,7 +8,7 @@ This is the first working MVP of a broader anti-disinformation platform. It is n
 
 ## Demo
 
-[Watch the demo video](https://drive.google.com/file/d/1DR1TNuq-N_AdY3TOgDHcxZLzVSzixre1/view?usp=sharing)
+[Watch the demo video](https://drive.google.com/file/d/16qTnAJs8kcfAuIn-0IGBnAWYs2cw069P/view?usp=sharing)
 
 ---
 
